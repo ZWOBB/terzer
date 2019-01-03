@@ -1,2 +1,2 @@
 # terzer
-Synthese der Terzen aus FFT-Daten
+Terzsynthese aus FFT-Daten
